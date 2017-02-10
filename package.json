@@ -7,7 +7,7 @@
     "main": "",
     "repository": {
         "type": "git",
-        "url": "https://github.com/react-custom-scrollbars-typings.git"
+        "url": "https://github.com/ruslanchek/types-react-custom-scrollbars.git"
     },
     "scripts": {},
     "dependencies": {},
